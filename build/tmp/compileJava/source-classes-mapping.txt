@@ -1,2 +1,6 @@
+com/astro0/endupdate/util/RegistryHandler.java
+ com.astro0.endupdate.util.RegistryHandler
 com/astro0/endupdate/EndUpdate.java
  com.astro0.endupdate.EndUpdate
+com/astro0/endupdate/items/ItemBase.java
+ com.astro0.endupdate.items.ItemBase
